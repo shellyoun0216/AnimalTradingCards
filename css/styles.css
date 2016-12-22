@@ -1,0 +1,30 @@
+/* add your CSS here */
+.table{
+	border: 1px solid lightgray;
+	padding: 1em;
+	box-shadow: 5px 5px 5px #CCC;
+}
+
+.table img{
+    width: 300px;
+    height: 200px;
+}
+.table p{
+	font-style: italic;
+}
+
+ul{
+	list-style-type: none;
+	alignment-baseline: 
+    margin: 0;
+    padding: 0;
+}
+
+ul span{
+	font-weight: bold;
+}
+
+.content{
+	border: 1px solid lightgray; 
+	padding: 1em;
+}
